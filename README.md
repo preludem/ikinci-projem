@@ -1,0 +1,3 @@
+# ikinci-projem
+
+deneme rojesidir
